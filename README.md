@@ -1,6 +1,6 @@
 <h1 align='center'>Conversor de Moedas</h1>
 
-<h4 align='center'> 🚀  Conversor de moedas utilizando o Awesome API</h4>
+<h4 align='center'> 🚀  Conversor de moedas utilizando a Awesome API</h4>
 
 <div align='center'>
     <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
